@@ -4,7 +4,7 @@ import {createLocalTracks, connect} from 'twilio-video';
 import axios from 'axios'
 import qs from 'qs'
 import './App.css';
-const urlGenerateToken = 'https://generate-token-7936.twil.io/video'
+const urlGenerateToken = ''
 const identity = qs.stringify('yp')
 
 function App() {
